@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>JiraAgileClean</string>
 	<key>CFBundleIdentifier</key>
-	<string>dk.miracle.jiraagileclean</string>
+	<string>com.procrasty.jiraagileclean</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -28,7 +28,7 @@
 				<key>Identifier</key>
 				<string>cleanJiraBoard</string>
 				<key>Image</key>
-				<string>menu_printer.png</string>
+				<string>743-printer-selected.png</string>
 				<key>Include By Default</key>
 				<true/>
 				<key>Label</key>
